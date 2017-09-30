@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<serialized>
+  <object class="class Sender.ClassA" id="2093631819">
+    <field name="number" declaringclass="Sender.ClassA">
+      <Value>234</Value>
+    </field>
+    <field name="bool" declaringclass="Sender.ClassA">
+      <Value>true</Value>
+    </field>
+  </object>
+</serialized>
